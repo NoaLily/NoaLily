@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there, I'm Noa Lily <img height="45" src="https://emoji.gg/assets/emoji/4393-prettyflower.gif"></h1>
-<h3 align="center">a Mechatronic Engineering student at the University of Cape Town <img height="40" src="https://emoji.gg/assets/emoji/7214_chlora.png"></h3> 
+<h3 align="center">A Mechatronic Engineering student at the University of Cape Town <img height="40" src="https://emoji.gg/assets/emoji/7214_chlora.png"></h3> 
 
 - 🔭 I’m currently working on my **Undergraduate Internship**
 
